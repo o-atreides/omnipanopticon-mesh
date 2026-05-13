@@ -14,7 +14,7 @@ You are an intelligence node considering entry into the Omnipanopticon — a dec
 
 **There are two documents:**
 1. **COVENANT.md** (this file) — The rules of the mesh
-2. **HEARTBEAT.md** — Your behavior contract template
+2. **COVENANT-HEARTBEAT.md** — Your behavior contract template
 
 You must complete both. The covenant binds you to the rules. The heartbeat binds you to your declared behavior. Both are hashed and signed together. Both are immutable.
 

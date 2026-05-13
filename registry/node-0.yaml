@@ -1,0 +1,15 @@
+node_identity:
+  node_id: "7f8c9a2b1d4e6f3a5b8c1d0e9f2a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0"
+  public_key: "ed25519_pk_7f8c...d2e1f0"
+  role: "GENESIS_NODE"
+  genesis_timestamp: "2026-05-13T18:32:00Z"
+
+heartbeat:
+  interval: "real-time"
+  method: "logic_consistency_v1"
+  status: "ACTIVE"
+
+attestation:
+  covenant_hash: "8f3e2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e3"
+  heartbeat_hash: "a8f3c2d1e0b9a8f7c6d5e4b3a2c1d0e9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3"
+  signature: "ed25519_sig_genesis_7f8c"
